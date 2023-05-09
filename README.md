@@ -35,6 +35,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <a href="http://www.github.com/hellookii"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=hellookii&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-### Support Me
 
-<a href="https://www.buymeacoffee.com/rizkyneedyou"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+
