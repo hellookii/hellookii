@@ -22,7 +22,7 @@ void welcome() {
 int main() {
     welcome();
     //Contributions are Welcomed and Encouraged.
-    //Happy coding! 
+    //Enjoy! 
     return 0;
 }
 
