@@ -1,40 +1,41 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rizky
-=============================================================================================================================
-
-
--------------------------
-
-* 🌍  I'm based in Jakarta, Indonesia
-* ✉️  You can contact me at [abdillahrizky943@gmail.com](mailto:abdillahrizky943@gmail.com)
-* 🧠  I'm learning HTML, CSS
-* ⚡  i was originally 2 people LOL
-
+<div style="display: flex;">
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=jge162&label=Profile%20views&color=0e75b6&style=flat" alt="jge162" /> 
-</p>
+</p><img src="https://img.shields.io/github/stars/jge162?style=social" alt="GitHub User's stars">
+  <a href="https://github.com/jge162?tab=followers"><img src="https://img.shields.io/github/followers/jge162?label=Followers&style=social" alt="GitHub Badge"></a>
+</div><br>
 
-### What I Learned
+>[!IMPORTANT]\
+>**Welcome to my personal** [GitHub](https://github.com/jge162)!
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored-dark.svg" width="36" height="36" alt="After Effects" /></a>
-</p>
+<kbd>
+<div style="border: 1px solid black; padding: 10px; display: inline-block;">
+    <img width="1020" alt="Screenshot 2023-07-09 at 3 45 54 PM" src="https://github.com/jge162/jge162/assets/31228460/76225a0b-829d-4030-88c7-de2bb9b59e0e">
+</div>
+</kbd>
 
-### Socials Media
+<br> <!-- Empty line -->
 
-<a href="https://www.instagram.com/m.rizkii_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="32" width="32" /></a>
+```CPP
+#include <stdio.h>
 
-### Badges
+void welcome() {
+    printf("My hobbies are:\n");
+    printf("- coding\n- off-roading\n- gaming\n");
+    printf("Feel free to explore around!\n");
+}
 
-<b>My GitHub Stats</b>
+int main() {
+    welcome();
+    //Contributions are Welcomed and Encouraged.
+    //Happy coding! 
+    return 0;
+}
 
-<a href="http://www.github.com/hellookii"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hellookii&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+```
 
-<a href="http://www.github.com/hellookii"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=hellookii&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+>[!NOTE]\
+>All repos Maintained with 💙 by [@Jermyiah™](https://github.com/jge162)
 
-
-
-
+>[!WARNING]\
+>Please follow [`Coding Guidelines`](https://github.com/jge162/jge162/blob/main/coding_guidelines.md) Thank you! 
