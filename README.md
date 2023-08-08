@@ -32,4 +32,4 @@ int main() {
 >All repos Maintained with 💙 by [@Rizky](https://github.com/hellookii)
 
 >[!WARNING]\
->Please follow [`Coding Guidelines`](https://github.com/jge162/hellookii/blob/main/coding_guidelines.md) Thank you! 
+>Please follow [`Coding Guidelines`](https://github.com/hellookii/hellookii/blob/main/coding_guidelines.md) Thank you! 
