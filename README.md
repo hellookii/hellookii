@@ -6,7 +6,7 @@
 </div><br>
 
 >[!IMPORTANT]\
->**Welcome to my personal** [GitHub](https://github.com/hellookii)!
+>**Welcome to my personal** [GitHub](https://github.com/hellookii)!<img src="https://camo.githubusercontent.com/c05b8e6f41e6e75b664d121f193fc3640f21b5f8ea0182efab1d2a8204e59caf/68747470733a2f2f62696f2e6c696e6b63646e2e746f2f696e73746162696f2e63632f7374617469632f696d616765732f6261636b2f747769747465725f69636f6e2e706e67" align="bottom" height="18" width="18" style="max-width: 100%; position: relative; left: 1px; top: -2px;"> 
 
 <br> <!-- Empty line -->
 
