@@ -34,10 +34,6 @@ int main() {
 >[!WARNING]\
 >Please follow [`Coding Guidelines`](https://github.com/hellookii/hellookii/blob/main/coding_guidelines.md) Thank you! 
 
-# 💫 About Me:
-<p align="center">
-  <img src="https://github.com/FForFachriza/FForFachriza/assets/68158429/a767aecb-af5a-4b69-b2e0-a4a7817bb2d7"/>
-</p>
 🌱 I’m currently learning Javascript Framework especially NextJS, React and Prisma<br>👨‍💻 All of my projects are available at my Github<br> 📫 How to reach me <strong>dimasavrian346@gmail.com</strong>
 
 ## 🌐 Socials:
