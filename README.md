@@ -21,8 +21,8 @@ void welcome() {
 
 int main() {
     welcome();
-    //Contributions are Welcomed and Encouraged.
-    //Enjoy! 
+    Contributions are Welcomed and Encouraged.
+    Enjoy
     return 0;
 }
 
@@ -33,3 +33,12 @@ int main() {
 
 >[!WARNING]\
 >Please follow [`Coding Guidelines`](https://github.com/hellookii/hellookii/blob/main/coding_guidelines.md) Thank you! 
+
+# 💫 About Me:
+<p align="center">
+  <img src="https://github.com/FForFachriza/FForFachriza/assets/68158429/a767aecb-af5a-4b69-b2e0-a4a7817bb2d7"/>
+</p>
+🌱 I’m currently learning Javascript Framework especially NextJS, React and Prisma<br>👨‍💻 All of my projects are available at my Github<br> 📫 How to reach me <strong>dimasavrian346@gmail.com</strong>
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dimasavrian.fachriza) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fforfachriza) 
