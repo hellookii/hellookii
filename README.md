@@ -38,3 +38,22 @@ int main() {
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dimasavrian.fachriza) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fforfachriza) 
+
+# 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FForFachriza&theme=nord&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FForFachriza&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
+
+<br/>
+
+<!-- [![Discord Presence](https://lanyard.cnrad.dev/api/458236535595204611)](https://discord.com/users/458236535595204611)
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ijmi5i3si5rvfkus29gx3sfcd&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ijmi5i3si5rvfkus29gx3sfcd&redirect=true)
+ -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=fforfachriza&label=Profile%20views&color=0e75b6&style=flat" alt="fforfachriza" /> </p>
