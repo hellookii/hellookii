@@ -34,20 +34,20 @@ int main() {
 >[!WARNING]\
 >Please follow [`Coding Guidelines`](https://github.com/hellookii/hellookii/blob/main/coding_guidelines.md) Thank you! 
 
-🌱 I’m currently learning Javascript Framework especially NextJS, React and Prisma<br>👨‍💻 All of my projects are available at my Github<br> 📫 How to reach me <strong>dimasavrian346@gmail.com</strong>
+🌱 I’m currently learning Javascript Framework especially NextJS, React and Prisma<br>👨‍💻 All of my projects are available at my Github<br> 📫 How to reach me <strong>abdillahrizky943@gmail.com</strong>
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dimasavrian.fachriza) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fforfachriza) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m.rizkii_) 
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FForFachriza&theme=nord&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hellookii&theme=nord&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FForFachriza&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellookii&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 <br/>
@@ -56,4 +56,4 @@ int main() {
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ijmi5i3si5rvfkus29gx3sfcd&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ijmi5i3si5rvfkus29gx3sfcd&redirect=true)
  -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=fforfachriza&label=Profile%20views&color=0e75b6&style=flat" alt="fforfachriza" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hellookii&label=Profile%20views&color=0e75b6&style=flat" alt="hellookii" /> </p>
